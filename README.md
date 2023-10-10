@@ -1,2 +1,2 @@
-# Hello_World
+# Hello World
 github練習用
